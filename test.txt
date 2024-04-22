@@ -1,0 +1,1 @@
+Hi my name is kate. What is your name? This is testing text, as I am creating a program that encrypts and decrypts data from files.
